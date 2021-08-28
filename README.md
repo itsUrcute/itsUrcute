@@ -1,16 +1,20 @@
-### Hi there 👋
+## About
 
-<!--
-**itsUrcute/itsUrcute** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Nickname(s):** Urcute, Urc
+<br />
+**Pronouns:** They/Him
 
-Here are some ideas to get you started:
+<a href="https://github.com/antonkomarev/github-profile-views-counter">
+  <img src="https://komarev.com/ghpvc/?username=itsUrcute&label=Profile Visits &#8203;" alt="itsUrcute's Profile Visits" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Statistics
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=itsUrcute&show_icons=true&include_all_commits=true&theme=radical" alt="itsUrcute's GitHub Stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsUrcute&layout=compact&theme=radical" alt="itsUrcute's Language Stats" />
+</a>
+
+---
